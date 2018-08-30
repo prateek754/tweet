@@ -13,7 +13,7 @@ var quotes = [
 	'Sitaaron ko aankhon mein mehfuz rakhna,Badi der tak raat hi raat hogi,Musafir hain hum bhi, musafir ho tum bhi, Kisi mod par, phir mulaqat hogi. ~Masaan 🎈🎈',
 	'It doesn\'t mean I don\'t care anymore. I don\'t want to let you down, honest, but it just doesn\'t hurt so bad anymore. You can understand that, can\'t you? Please! I need it to be different now. I know I made a promise, but I didn\'t see this coming. I didn\'t count on being happy.Please...tell me that it\'s okay.',
 	'**Hedgehog\'s dilemma**The closer we become, the more deeply we hurt each other.',
-	'Don\'t lose your way,With each passing day,You\'ve come so far,Don\'t throw it away,Live believing,Dreams are for weaving,Wonders are waiting to startLive your story,Faith, hope and glory,Hold to the truth in your heart',
+	'Don\'t lose your way, With each passing day,You\'ve come so far, Don\'t throw it away, Live believing, Dreams are for weaving, Wonders are waiting to startLive your story, Faith, hope and glory,Hold to the truth in your heart',
 	'If we hold on together,I know our dreams will never die,Dreams see us through to forever,Where clouds roll by For you and I.',
 	'I have to stop beginning with the conclusion. ',
 	'It is difficult to get a man to understand something when his salary depends upon his not understanding it.',
